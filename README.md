@@ -2,10 +2,15 @@
 CRACK LẠI VÀ FIX LINH TINH
 
 
+
 Để sử dụng Youtube phải cài MicroG trước
 
 Bước 1:
-*Cài đặt app tên "app.revanced.android.gms-{version}-signed"*
+*Cài đặt app tên "app.revanced.android.gms-{version}-signed" (For All Device) *
+
+hoặc
+
+*"app.revanced.android.gms-{version}-hw-signed.apk (Hỗ trợ riêng một số máy)" *
 
 Bước 2: 
 *Cài đặt app Youtube revanced có tên "youtube-revanced-v{version}-all.apk"*
