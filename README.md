@@ -2,8 +2,8 @@
 CRACK LẠI VÀ FIX LINH TINH
 
 
-
 Để sử dụng Youtube phải cài MicroG trước
+
 Bước 1:
 *Cài đặt app tên "app.revanced.android.gms-{version}-signed"*
 
