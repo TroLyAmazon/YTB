@@ -7,9 +7,7 @@ CRACK LẠI VÀ FIX LINH TINH
 
 Bước 1:
 *Cài đặt app tên "app.revanced.android.gms-{version}-signed" (For All Device) *
-
 hoặc
-
 *"app.revanced.android.gms-{version}-hw-signed.apk (Hỗ trợ riêng một số máy)" *
 
 Bước 2: 
